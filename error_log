@@ -1,0 +1,10 @@
+[16-Jan-2022 11:59:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mycosang/public_html/config.php on line 3
+[16-Jan-2022 11:59:20 America/New_York] PHP Notice:  Constant DB_SERVER already defined in /home/mycosang/public_html/db.php on line 4
+[16-Jan-2022 11:59:20 America/New_York] PHP Notice:  Constant DB_USERNAME already defined in /home/mycosang/public_html/db.php on line 5
+[16-Jan-2022 11:59:20 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/mycosang/public_html/db.php on line 6
+[16-Jan-2022 11:59:20 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/mycosang/public_html/db.php on line 7
+[16-Jan-2022 11:59:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mycosang/public_html/config.php on line 3
+[16-Jan-2022 11:59:35 America/New_York] PHP Notice:  Constant DB_SERVER already defined in /home/mycosang/public_html/db.php on line 4
+[16-Jan-2022 11:59:35 America/New_York] PHP Notice:  Constant DB_USERNAME already defined in /home/mycosang/public_html/db.php on line 5
+[16-Jan-2022 11:59:35 America/New_York] PHP Notice:  Constant DB_PASSWORD already defined in /home/mycosang/public_html/db.php on line 6
+[16-Jan-2022 11:59:35 America/New_York] PHP Notice:  Constant DB_NAME already defined in /home/mycosang/public_html/db.php on line 7
